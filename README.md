@@ -35,7 +35,7 @@ named `Makefile` to compile the program.
 
 To run the program once it is built, say
 
-    ./domletters <input.txt
+    ./domletters <input.txt>
 
 where `input.txt` is the input file to be processed.
 
